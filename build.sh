@@ -5,7 +5,7 @@ export CLANG_TRIPLE=aarch64-linux-gnu-
 export CROSS_COMPILE=aarch64-linux-gnu-
 
 
-#make O=out -j12 evo_renegade_defconfig
+make O=out -j12 evo_renegade_defconfig
 
 make O=out -j12
 
