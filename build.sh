@@ -1,7 +1,7 @@
 export ARCH=arm64
 export SUBARCH=arm64
 export HEADER_ARCH=arm64
-#export DTC_EXT=dtc
+export DTC_EXT=dtc
 export CC=clang
 export CLANG_TRIPLE=aarch64-linux-gnu-
 export CROSS_COMPILE=aarch64-linux-gnu-
